@@ -13,3 +13,4 @@
 - Manifiesto Mozilla MDN [Manifiesto MDN](https://www.mozilla.org/es-AR/about/manifesto)
 
 - VS Code [VS Code](https://code.visualstudio.com/)
+- W3 Schools [W3 Schools](https://www.w3schools.com/html/default.asp)
