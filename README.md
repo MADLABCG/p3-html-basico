@@ -12,5 +12,9 @@
 
 - Manifiesto Mozilla MDN [Manifiesto MDN](https://www.mozilla.org/es-AR/about/manifesto)
 
+- Twitter Bootstrap [Twitter Bootstrap](https://getbootstrap.com/2.0.2/index.html)
+
+- jQuery [jQuery](https://jquery.com/)
+
 - VS Code [VS Code](https://code.visualstudio.com/)
 - W3 Schools [W3 Schools](https://www.w3schools.com/html/default.asp)
